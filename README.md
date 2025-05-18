@@ -5,3 +5,5 @@ I made this because I wanted to watch videos about a show that I was watching, b
 I got tired of this, so I collaborated with Claude and made this little extension. I would have tried doing it myself, unfortunatly I don't know any JS 😛
 
 After you download this you have to go into Manage Chrome extensions, check developper mode and load in the package. It should work after that.
+
+oh, and the icons look ugly and mostly don't work right, but I don't care enough to fix it. Sorry!
