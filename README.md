@@ -1,6 +1,7 @@
 # YoutubeTranscriptCopy - A Chrome extension for YouTube
-*Reveal and copy the transcript of (almost) any YouTube video with a few clicks!*
+*Reveal and copy the transcript of (almost) any YouTube video with a few clicks.*
 This only works if the video has the Show Transcript button in the description.
+
 
 # How to use
 1. Download each file and put them in a folder.
@@ -10,5 +11,4 @@ This only works if the video has the Show Transcript button in the description.
 ![87022](https://github.com/user-attachments/assets/a6b7b63a-1a97-4f85-af23-005dffc130b9)
 
 
-3. It should work after that.
-
+3. It should show up next to the other browser extensions after that.
